@@ -1,0 +1,8 @@
+model{
+  for(year in 1:N){
+    D[year]~dpois(theta)
+  }
+  theta~dgamma(1,1)
+}
+
+
