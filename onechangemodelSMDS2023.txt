@@ -1,0 +1,16 @@
+model{
+  for(i in 1:N){
+    year[i] <- i+1850
+    period[i] <- 1 + step(year[i]-changeyear)
+    D[i] ~ dpois(theta[period[i]]) 
+  }
+  log(theta[1]) <- b[1]
+  log(theta[2]) <- b[1] + b[2]
+  for(j in 1:2){
+                 b[j]~dnorm(0,0.0001)
+               }
+  changeyear_cont ~ dunif(1851,1962)
+  changeyear <- round(changeyear_cont)
+  ratio <- theta[1]/theta[2]
+}
+
