@@ -1,0 +1,59 @@
+ID;TIPO_ACCESSO;ETA_DONNA;RELAZIONE_DONNA_AGGRESSORE;N_VIOLENZE;ETA_UOMO;ANNO
+1;diretta;18-24;ex partner;3;25-34;2025
+2;indiretta;55-64;partner attuale;0;35-44;2022
+3;diretta;35-44;partner attuale;0;25-34;2024
+4;diretta;25-34;ex marito;0;45-54;2022
+5;indiretta;45-54;ex partner;3;25-34;2025
+6;diretta;18-24;partner attuale;2;55-64;2024
+7;indiretta;45-54;ex marito;0;65+;2023
+8;diretta;45-54;convivente;1;55-64;2024
+9;indiretta;18-24;partner attuale;2;25-34;2022
+10;diretta;25-34;ex partner;1;45-54;2023
+11;diretta;25-34;ex partner;1;55-64;2024
+12;diretta;25-34;fidanzato;2;25-34;2023
+13;indiretta;35-44;ex marito;2;45-54;2025
+14;indiretta;25-34;partner attuale;1;35-44;2023
+15;diretta;65+;familiare;0;35-44;2024
+16;diretta;55-64;marito;4;25-34;2023
+17;diretta;25-34;ex marito;2;55-64;2023
+18;diretta;65+;marito;1;25-34;2022
+19;diretta;35-44;fidanzato;2;35-44;2022
+20;diretta;65+;ex marito;1;65+;2025
+21;diretta;45-54;ex convivente;1;35-44;2023
+22;indiretta;25-34;marito;6;35-44;2025
+23;indiretta;25-34;marito;1;25-34;2025
+24;indiretta;25-34;convivente;1;45-54;2022
+25;indiretta;35-44;fidanzato;2;35-44;2022
+26;diretta;18-24;familiare;1;55-64;2025
+27;diretta;18-24;familiare;0;65+;2022
+28;diretta;18-24;fidanzato;1;45-54;2022
+29;diretta;35-44;ex partner;2;55-64;2023
+30;diretta;35-44;fidanzato;0;25-34;2023
+31;indiretta;45-54;marito;4;35-44;2022
+32;diretta;25-34;ex marito;1;25-34;2023
+33;diretta;35-44;partner attuale;2;55-64;2025
+34;diretta;25-34;convivente;0;25-34;2022
+35;indiretta;35-44;marito;1;45-54;2025
+36;diretta;18-24;marito;4;35-44;2024
+37;indiretta;45-54;conoscente;4;25-34;2023
+38;diretta;55-64;ex partner;2;25-34;2024
+39;diretta;25-34;ex partner;0;55-64;2024
+40;indiretta;35-44;partner attuale;0;65+;2025
+41;indiretta;55-64;ex fidanzato;2;25-34;2024
+42;diretta;35-44;partner attuale;2;35-44;2025
+43;diretta;45-54;marito;1;35-44;2025
+44;indiretta;35-44;ex convivente;0;25-34;2023
+45;indiretta;35-44;ex marito;1;45-54;2022
+46;diretta;35-44;ex fidanzato;5;25-34;2025
+47;diretta;25-34;ex marito;4;45-54;2023
+48;diretta;55-64;ex partner;0;35-44;2024
+49;diretta;35-44;ex marito;1;55-64;2023
+50;indiretta;25-34;ex partner;2;45-54;2023
+51;diretta;45-54;partner attuale;2;35-44;2025
+52;indiretta;18-24;partner attuale;0;25-34;2025
+53;indiretta;55-64;ex partner;2;25-34;2025
+54;indiretta;35-44;conoscente;2;45-54;2022
+55;indiretta;25-34;convivente;3;55-64;2022
+56;diretta;25-34;ex marito;1;25-34;2024
+57;indiretta;25-34;convivente;0;25-34;2024
+58;indiretta;55-64;partner attuale;2;35-44;2023
